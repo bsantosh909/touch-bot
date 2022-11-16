@@ -20,6 +20,7 @@
 		"canvas": "^2.10.2",
 		"canvas-constructor": "^7.0.0",
 		"colorette": "^2.0.19",
+		"cowsay": "^1.5.0",
 		"discord-api-types": "^0.33.5",
 		"discord.js": "^13.11.0",
 		"dotenv-cra": "^3.0.2",
